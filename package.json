@@ -1,5 +1,5 @@
 {
-  "name": "downloadjs",
+  "name": "downloadpdfjs",
   "main": "download.js",
   "version": "1.4.8",
   "description": "file downloading using client-side javascript",
@@ -27,7 +27,7 @@
     "download.js",
     "download.min.js"
   ],
-  "npmName": "downloadjs",
+  "npmName": "downloadpdfjs",
   "npmFileMap": [
     {
       "basePath": "/",
